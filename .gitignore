@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 env/
 *cache*
 *.pyc
+=======
+ent/
+*cache*
+*.pyc
+>>>>>>> 490713b (Add flask and boto3 program to read bucket name)
